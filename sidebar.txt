@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bol:home|Door43 (bol)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bol|d43-bol repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bol/archive/master.zip|d43-bol.zip]]
+
+**Recent Changes**
+{{changes>ns = bol}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bol|Ethnologue data]]
+
